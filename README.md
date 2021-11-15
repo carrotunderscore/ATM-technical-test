@@ -40,7 +40,7 @@ For windows 10:
     
     $ gcc atm.c
     
-    (This compiles is)
+    (This compiles it)
     
     $ ./a.out
     
