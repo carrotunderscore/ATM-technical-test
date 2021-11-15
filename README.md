@@ -32,3 +32,17 @@ For windows 10:
   For mac:
   
     https://www.cs.auckland.ac.nz/~paul/C/Mac/
+    
+ How to run:
+  Either open the terminal in Visual Studio Code or open the integrated terminal in the project folder. 
+  
+  Then run:
+    
+    $ gcc atm.c
+    
+    (This compiles is)
+    
+    $ ./a.out
+    
+    (This runs the compiled file)
+    
