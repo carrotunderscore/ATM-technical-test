@@ -46,5 +46,5 @@ For windows 10:
     
     (This runs the compiled file)
     
-This is on linux and mya differ on other OS's.
+This is on linux and may differ on other OS's.
     
